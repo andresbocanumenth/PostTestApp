@@ -1,0 +1,6 @@
+framework module Pods_Ceiba {
+  umbrella header "Pods-Ceiba-umbrella.h"
+
+  export *
+  module * { export * }
+}
